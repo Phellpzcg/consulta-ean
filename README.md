@@ -1,5 +1,5 @@
 # Consulta GTIN via SEFAZ (SVRS)
-
+# teste
 Backend Node.js + TypeScript para consulta de GTIN no Cadastro Centralizado de GTIN (CCG) da GS1, via Web Service da SEFAZ (SVRS), conforme NT 2022.001 e Guia Consulta GTIN [31-05-22].
 
 ## Funcionalidades
